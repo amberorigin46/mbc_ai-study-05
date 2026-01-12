@@ -1,0 +1,5 @@
+{
+  "name": "TubeTrend Explorer AI",
+  "description": "A powerful dashboard to discover viral YouTube topics by analyzing view-to-subscriber ratios and leveraging Gemini AI to extract content ideas from viewer comments.",
+  "requestFramePermissions": []
+}
